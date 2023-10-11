@@ -1,0 +1,7 @@
+[CBL-Mariner](https://github.com/microsoft/CBL-Mariner)
+
+CBL-Mariner is an internal Linux distribution developed by Microsoft for their cloud infrastructure and edge products. It is designed to provide a consistent platform and stay current on Linux updates. CBL-Mariner has a small core set of packages that can be customized with additional packages for different workloads. It is lightweight, consumes limited resources, and has a minimal attack surface. CBL-Mariner supports both package-based and image-based updates for security vulnerabilities. The repository provides instructions for building CBL-Mariner and offers ISO images for testing. Microsoft's commitment to open source and contribution to the Linux community is demonstrated through sharing CBL-Mariner publicly.
+
+[react-native-windows](https://github.com/microsoft/react-native-windows)
+
+The React Native for Windows repository is an extension of the React Native framework developed by Meta. It allows developers to build native Windows apps using JavaScript and React. The repository adds support for the Windows 10 SDK, enabling the creation of apps for various devices supported by Windows 10. The repository provides documentation, a getting started guide, and examples to help developers get started with React Native for Windows. The project is released under the MIT license and follows the Microsoft Open Source Code of Conduct.
